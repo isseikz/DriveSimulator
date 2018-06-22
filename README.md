@@ -3,6 +3,11 @@ Driving simulator of a car with human input
 
 ## Requirements
 + Python (I use version 3.6.)
+  - scipy
+  - matplotlib
+  - numpy
+  - math
+  - win32api
 + Windows (Win32 API, I use Windows 10.)
 
 ## Files
