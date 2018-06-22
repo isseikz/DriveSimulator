@@ -16,3 +16,11 @@ Driving simulator of a car with human input
 + getkey.py: For obtaining an input from your keyboard
 + model.py: Description for dynamics of cars
 + virtualKey.py: Keymap. Great thanks to chriskiehl/Vitual keystroke example(https://gist.github.com/chriskiehl/2906125)
+
+## How to use
+1. Execute main.py, and command line and figure will be started.
+2. Control the car.
++ Accelerate: u(fast), i, o, p, j, and k(slow)
++ Deccelerate: l(slow), ;, ,, ., /(fast)
++ Handling: a(left, fast), s(left, slow), d(right, slow), f(right, fast)
+3. To stop the simulation, press 'G'
